@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Caldeira.iml" filepath="$PROJECT_DIR$/.idea/Java Caldeira.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java OO entendendo a Orientação a Objetos/Java OO entendendo a Orientação a Objetos.iml" filepath="$PROJECT_DIR$/Java OO entendendo a Orientação a Objetos/Java OO entendendo a Orientação a Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Polimorfismo entenda herança e interfaces/Java Polimorfismo entenda herança e interfaces.iml" filepath="$PROJECT_DIR$/Java Polimorfismo entenda herança e interfaces/Java Polimorfismo entenda herança e interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java JRE e JDK compile e execute o seu programa/sintaxe-basica/sintaxe-basica.iml" filepath="$PROJECT_DIR$/Java JRE e JDK compile e execute o seu programa/sintaxe-basica/sintaxe-basica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java JRE e JDK compile e execute o seu programa/sintaxe-variaveis-e-fluxos/sintaxe-variaveis-e-fluxos.iml" filepath="$PROJECT_DIR$/Java JRE e JDK compile e execute o seu programa/sintaxe-variaveis-e-fluxos/sintaxe-variaveis-e-fluxos.iml" />
+    </modules>
+  </component>
+</project>
